@@ -15,7 +15,7 @@ Generally, if there is an acronym or a short Anglicism to designate something, c
 | a framework                             | 框架 (kuàng jià)                                       | 我们应该升级前段框架的版本 |
 | a mini-program                          | 小程序 (xiǎo chéng xù)                                 |                            |
 | a string                                | 字符串 (zì fú chuàn)                                   | 这个12位的字符串太长了     |
-| a square bracket [ \| ]                 | 方括号 (fāng guā hào)                                  |                            |
+| a square bracket [ \| ]                 | 方括号 (fāng guā hào)                                  | 方括号的时候，这几个字符连带全都不会显示了                           |
 | a curly bracket { \| }                  | 花括号 (huā guā hào)                                   |                            |
 | an escaped chars                        | 跳脫字元 (tiào tuō zì yuán)                            |                            |
 | a parenthesis                           | 圆括号 (yuán guā hào)                                  |                            |
@@ -28,22 +28,22 @@ Generally, if there is an acronym or a short Anglicism to designate something, c
 | <u>ORM</u>                              | 对象关系映射程序 (duì xiàng guān xì yìng shè chéng xù) |                            |
 | to migrate code                         | 迁移代码 (qiān yí dài mǎ)                              | 迁移代码在新项目           |
 | asynchronous                            | 异步 (yì bù)                                           |                            |
-| <u>API</u>                              | <u>接口</u> (jiē kǒu)                                  |                            |
-| <u>a bug</u>                            | 漏洞 (lòu dòng)                                        |                            |
+| API                                     | 接口 (jiē kǒu)                                  |                            |
+| <u>a bug</u>                            | 漏洞 (lòu dòng)                                        | bug or 漏洞 are both used                   |
 | to debug                                | 调试 (tiáo shì)                                        | 本地开发调试很方便         |
 | to fix                                  | 修复 (xiū fù)                                          |                            |
-| to build                                | 构建 (gòu jiàn)                                        |                            |
+| to build                                | 构建 (gòu jiàn)                                        | 今天构建突然报这个错是什么原因?                           |
 | to compile                              | 编译 (biān yì)                                         | 我去，编译又失败了         |
 | **Design Pattern**                      | **设计模式** (shè jì mò shì)                           |                            |
 | singleton design pattern                | 单体模式 (dān yī mò shì)                               |                            |
 | KISS principle (Keep It Simple, Stupid) | KISS原则 (KISS yuán zé)                                |                            |
 | **<u>OOP</u>**                          |                                                        |                            |
-| a class                                 | 一类 (yi lèi)                                          |                            |
-| a class method                          | 类方法 (lèi fāng fǎ)                                   |                            |
+| a class                                 | 一类 (yi lèi)                                          |  这一类请求建议都监控起来                          |
+| a class method                          | 类方法 (lèi fāng fǎ)                                   |  匹配的类方法                          |
 | a class variable                        | 类变量 (lèi biàn liàng)                                |                            |
-| an object                               | 对象 (duì xiàng)                                       |                            |
+| an object                               | 对象 (duì xiàng)                                       | 对象里有个开关字段                           |
 | to construct                            | 构造 (gòu zào)                                         |                            |
-| a constructor                           | 构造函数 (gòu zào hán shù)                             |                            |
+| a constructor                           | 构造函数 (gòu zào hán shù)                             | 这样调用构造函数，一直抛NPE                           |
 | **Primary Types**                       |                                                        |                            |
 | a char                                  | 字元 (zì yuán)                                         |                            |
 | a float                                 | 浮点数 (fú diǎn shù)                                   |                            |
@@ -201,3 +201,6 @@ Generally, if there is an acronym or a short Anglicism to designate something, c
 | You did a good job!                     | 你做得非常好！(nǐ zuò de fēichánɡ hǎo!)                      |
 | How may I help you?                     | 有什么可以帮你？(yǒu shén me ké yǐ bānɡ ní)                  |
 | Could you provide the client's address? | 可以提供下客户的地址吗？(kě yǐ tí gōng xià kè hù dì dì zhǐ ma?) |
+| Can you explain me the background (spoken) | 要不讲我下背景？（口语）|
+| We look forward to hearing you soon and establishing a pleasant business relationship with you. | 期待与贵公司建立愉快的合作关系 |
+| We will release a milestone plan soon, as well as a first release! | 我们很快会发布一个里程碑计划，还有第一个发布版！ 静候佳音吧。|
